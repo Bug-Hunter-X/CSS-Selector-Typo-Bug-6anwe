@@ -1,0 +1,12 @@
+/* Corrected CSS */
+.header-text {
+  font-size: 2em;
+  color: #333;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.content {
+  padding: 20px;
+}
